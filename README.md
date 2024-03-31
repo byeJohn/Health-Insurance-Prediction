@@ -1,3 +1,5 @@
+Dataset: https://www.kaggle.com/datasets/joebeachcapital/medical-insurance-costs/code
+
 https://nbviewer.org/github/byeJohn/JupyterNotebook-4308/blob/main/DataCleaning.ipynb
 
 #  Jupyter Notebook: 
@@ -15,4 +17,3 @@ https://sqlitebrowser.org/dl/
 https://inloop.github.io/sqlite-viewer/
 
 .csv -> Database File with Python : https://www.youtube.com/watch?v=UZIhVmkrAEs
-
