@@ -7,3 +7,12 @@ https://jupyter.org/install
 
 ```jupyter notebook```
 
+#  SQLite
+https://www.sqlite.org/download.html
+
+https://sqlitebrowser.org/dl/
+
+https://inloop.github.io/sqlite-viewer/
+
+.csv -> Database File with Python : https://www.youtube.com/watch?v=UZIhVmkrAEs
+
