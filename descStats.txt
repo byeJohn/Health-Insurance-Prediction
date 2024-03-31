@@ -1,0 +1,20 @@
+Duplicate Rows Removed:
+ age  sex   bmi  children  smoker  region   charges
+  19    1 30.59         0       0       0 1639.5631
+  19    1 30.59         0       0       0 1639.5631
+
+Descriptive Statistics Overview:
+               age          bmi     children       charges
+count  1337.000000  1337.000000  1337.000000   1337.000000
+mean     39.222139    30.663452     1.095737  13279.121487
+std      14.044333     6.100468     1.205571  12110.359656
+min      18.000000    15.960000     0.000000   1121.873900
+25%      27.000000    26.290000     0.000000   4746.344000
+50%      39.000000    30.400000     1.000000   9386.161300
+75%      51.000000    34.700000     2.000000  16657.717450
+max      64.000000    53.130000     5.000000  63770.428010
+
+Additional Statistics for Charges:
+Mean Charges: 13279.121486655948
+Minimum Charges: 1121.8739
+Maximum Charges: 63770.42801
